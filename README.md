@@ -228,6 +228,15 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 
 ## Interview Process & General Interview Prep
 
+Lecture for Stanford Algorithm course
+## WEEK1
+- [ ] Part I: Introduction
+- [ ] Part II: Asymptotic Analysis
+- [ ] Quiz
+- [ ] Problem set for Part I and II
+## WEEK2
+
+
 - [ ] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
 - [ ] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
 - [ ] [Effective Whiteboarding during Programming Interviews](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
