@@ -4,16 +4,27 @@
 
 Starting date for prep: 01/23/2018
 Total hours of prep calculated: ~580 hours give or take
+
     Algorithm course = 16 hours
+
     Elements of programming book = 75 hours
+
     Cracking the code interview = 75 hours
+
     Topcoder = 50 hours
+    
     Leetcode = (~70 problems at most 2 hours each based on medium article) 140 hours
+    
     GeeksforGeeks = 50 hours
+    
     10 pramp interviews = 1 hour each, 10 hours
+    
     Project Euler = (hardest problems) 100 hours
+    
     Mock interviews with peers = 10 meetings 1 hour each 10 hours
+    
     Gain.lo = ~2 interviews 1 hour each just to simulate the real interview and get professional feedback. If useful do a third one (2-3 hours)
+    
     reading misc articles and watching useful vids = 50 hours
 Minimum hours of study per week not including personal projects: 30 hours a week (about 4 hours 15 minutes a day roughly) means I finish in 20 weeks which is about ~5 months
 
