@@ -35,14 +35,14 @@ LeetCode status : 4/~70 completed
 
 Lecture for Stanford Algorithm course
 ## Algorithm Course 
-week 1
+- week 1
 - [x] Part I: Introduction
 - [x] Part II: Asymptotic Analysis 
 - [ ] Quiz part I 
 - [ ] Problem part I
 - [ ] Quiz part II
 - [ ] Problem set for Part II 
-week 2
+- week 2
 
 ## General Interview Prep
 - [x] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4) (2 hours)
