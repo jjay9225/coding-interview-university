@@ -30,17 +30,19 @@ Minimum hours of study per week not including personal projects: 30 hours a week
 
 End date should be 06/23/2018
 
+## LeetCode status
 LeetCode status : 4/~70 completed
 
 Lecture for Stanford Algorithm course
-## WEEK1 
+## Algorithm Course 
+week 1
 - [x] Part I: Introduction
 - [x] Part II: Asymptotic Analysis 
 - [ ] Quiz part I 
 - [ ] Problem part I
 - [ ] Quiz part II
 - [ ] Problem set for Part II 
-## WEEK2
+week 2
 
 ## General Interview Prep
 - [x] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4) (2 hours)
