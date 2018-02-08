@@ -33,15 +33,11 @@ End date should be 06/23/2018
 ## LeetCode status
 LeetCode status : 18/~70 completed
 
-Lecture for Stanford Algorithm course
+Lecture for Princeton Algorithm course
 ## Algorithm Course 
 - week 1
-- [x] Part I: Introduction
-- [x] Part II: Asymptotic Analysis 
-- [ ] Quiz part I 
-- [ ] Problem part I
-- [ ] Quiz part II
-- [ ] Problem set for Part II 
+- lectures
+- homework
 - week 2
 
 ## General Interview Prep
