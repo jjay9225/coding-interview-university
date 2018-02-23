@@ -31,7 +31,11 @@ Minimum hours of study per week not including personal projects: 30 hours a week
 End date should be 06/23/2018
 
 ## LeetCode status
-LeetCode status : 18/~70 completed
+LeetCode status : 35/~70 completed
+
+##Hackerrank Hard/Medium status
+Hard:
+Medium:
 
 Lecture for Princeton Algorithm course
 ## Algorithm Course 
