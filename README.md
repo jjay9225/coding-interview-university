@@ -33,7 +33,7 @@ End date should be 06/23/2018
 ## LeetCode status
 LeetCode status : 35/~70 completed
 
-##Hackerrank Hard/Medium status
+## Hackerrank Hard/Medium status
 Hard:
 Medium:
 
