@@ -31,18 +31,14 @@ Minimum hours of study per week not including personal projects: 30 hours a week
 End date should be 06/23/2018
 
 ## LeetCode status
-LeetCode status : 35/~70 completed
+LeetCode status : 42/~70 completed
 
 ## Hackerrank Hard/Medium status
 Hard:
 Medium:
 
-Lecture for Princeton Algorithm course
-## Algorithm Course 
-- week 1
-- lectures
-- homework
-- week 2
+## Cracking the Coding Interview
+-Up to chapter 5: Bit Manipulation
 
 ## General Interview Prep
 - [x] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4) (2 hours)
